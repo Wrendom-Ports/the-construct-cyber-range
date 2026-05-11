@@ -52,4 +52,4 @@ Missions are delivered as encrypted JSON manifests. A sample structure of the mi
 ---
 
 ### 🛡️ The Doctrine
-*"We don't just defend the perimeter; we delete it. By decoupling the user from the infrastructure, the point of attack becomes a moving target that vanishes upon observation."*
+*"We don't just defend the perimeter; we make it invisible.
