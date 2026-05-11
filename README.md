@@ -8,7 +8,7 @@ Unlike traditional static labs, **The Construct** utilizes a proprietary JSON-dr
 
 * **Missions-as-Code:** Curriculum is injected into the workspace via dynamic payloads, allowing for real-time scenario evolution.
 * **TTC Topology Mapping:** A high-fidelity network map based on the **Toronto Subway System**, providing a familiar yet complex architectural landscape for defensive maneuvers.
-* **The Ghost Layer:** Every mission runs on a decoupled, multi-geo node infrastructure. When the student completes a mission, the environment undergoes a **Zero-State Purge**.
+* **The Ghost Layer:** Every mission or scenario runs on a decoupled, multi-geo node infrastructure. When the student completes a mission, the environment undergoes a **Zero-State Purge**.
 
 ---
 
