@@ -27,7 +27,7 @@ Missions are delivered as encrypted JSON manifests. A sample structure of the mi
 ---
 
 ### 🚀 Public Entry Missions: The Urban Defense Series
-*Simplified scenarios designed for new recruits and the general public to understand the power of Ghost Ports.*
+*Simplified scenario examples designed for new recruits and the general public to understand the power of Ghost Ports.*
 
 #### **[MISSION: THE COFFEE-SHOP CLONE]**
 * **Scenario:** You are working remotely at a cafe near **Eglinton Station**. A hacker has set up a fake Wi-Fi hotspot to steal your login credentials.
