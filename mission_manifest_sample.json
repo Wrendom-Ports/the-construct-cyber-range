@@ -1,8 +1,6 @@
 {
-  "mission_id": "BLOOR-YONGE-001",
   "objective": "Intercept lateral movement within the Signal Control VLAN",
   "topology": "TTC-SUBWAY-NORTH",
   "payload_delivery": "Ghost-Pipe-Injection",
-  "hud_elements": ["Scanner", "Shield"],
   "redacted": true
 }
