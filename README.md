@@ -70,24 +70,6 @@ Unlike traditional static labs, **The Construct** utilizes a proprietary real-ti
 
 ---
 
-### 📡 Tactical Mission Payloads (JSON)
-These payloads are delivered in real-time to the student's tactical interface to simulate real-world forensic challenges.
-
-#### **Forensic Clue: Email Spoofing Header**
-```json
-{
-  "mission_id": "MSN-010",
-  "environment": "Union_Station_Workplace",
-  "threat_vector": "Email_Spoofing",
-  "forensic_payload": {
-    "visible_sender": "IT_Support@InternalCorp.com",
-    "hidden_header_source": "admin@login-secure-update.net",
-    "security_mismatch": true
-  },
-  "hud_action": "Use THE SCANNER on the sender's avatar to reveal the 'Return-Path' metadata."
-}
-
----
 
 ### 🎯 Mission Tier 2: Professional Certification Scenarios
 *Missions mapped to NIST, MITRE, and OWASP frameworks for advanced defensive readiness.*
