@@ -53,23 +53,6 @@ Unlike traditional static labs, **The Construct** utilizes a proprietary real-ti
 
 ---
 
-### 🎯 Mission Tier 2: Professional Certification Scenarios
-*Missions mapped to NIST, MITRE, and OWASP frameworks for advanced defensive readiness.*
-
-#### **[MISSION: SQL-INJECTION SUPPRESSION]**
-* **Framework:** OWASP Top 10 (A03:2021)
-* **Scenario:** Blind SQL injection attempt against the **King Station** database interface.
-* **Objective:** Identify the malformed query and neutralize the connection.
-* **Orchestration:** System triggers a **Wave Function Handover**, replacing the node in <0.5s.
-
-#### **[MISSION: PERSISTENT-LURKER PURGE]**
-* **Framework:** NIST (IR-4) / MITRE [T1078]
-* **Scenario:** Suspicious lateral movement detected across the **Toronto Grid** after hours.
-* **Objective:** Forensic-clean re-instantiation of the workspace.
-* **Orchestration:** Forceful rotation to a clean node, purging any persistent memory-resident malware.
-
----
-
 
 ### 🎯 Mission Tier 2: Professional Certification Scenarios
 *Missions mapped to NIST, MITRE, and OWASP frameworks for advanced defensive readiness.*
