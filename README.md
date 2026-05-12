@@ -7,7 +7,7 @@
 Unlike traditional static labs, **The Construct** utilizes a proprietary real-time mission delivery system. 
 
 * **Missions-as-Code:** Curriculum/Scenarios are injected into the workspace, allowing for real-time scenario evolution.
-* **City of Toronto Topology Mapping:** A high-fidelity network map based on the **City Landscape**, providing a complex architectural landscape for defensive maneuvers.
+* **City of Toronto Topology Mapping:** A high-fidelity network map based on the **City Landscape**, providing real world visual anchors for complex architectural landscapes
 * **The Ghost Layer:** Every mission runs via our secured Ghost Pipe, multi-geo node High Speed delivery Infrastructure. Upon completion, the environment undergoes a **Zero-State Purge**, and the next scenario/mission renders in <1s.
 * **Multi-Tiered Progression:** Missions are architected as multi-step operations requiring sequential tactical objectives. Progress is **State-Saved** via an ephemeral engine, allowing for non-traditional mission/scenario engagement and recovery.
 * **Proprietary Core:** Operates on a tuned implementation of the **Sentinel** and **Morpheus** logic—the same architectural engines driving the enterprise-grade private tunnel infrastructure.
