@@ -1,5 +1,5 @@
 # THE CONSTRUCT | Narrative-Driven Cyber Range
-**Advanced Defensive Simulation Environment | Powered by Ghost Ports Infrastructure**
+**Advanced Narrative-Defensive Simulation Environment | Powered by Ghost Ports Infrastructure**
 
 ---
 
