@@ -3,10 +3,10 @@
 
 ---
 
-### 🕹️ The Logic: Narrative JSON Orchestration
-Unlike traditional static labs, **The Construct** utilizes a proprietary JSON-driven mission delivery system. 
+### 🕹️ The Logic: Narrative Orchestration
+Unlike traditional static labs, **The Construct** utilizes a proprietary real-time mission delivery system. 
 
-* **Missions-as-Code:** Curriculum is injected into the workspace via dynamic payloads, allowing for real-time scenario evolution.
+* **Missions-as-Code:** Curriculum/Scenarios are injected into the workspace, allowing for real-time scenario evolution.
 * **TTC Topology Mapping:** A high-fidelity network map based on the **Toronto Subway System**, providing a complex architectural landscape for defensive maneuvers.
 * **The Ghost Layer:** Every mission runs on a decoupled, multi-geo node infrastructure. Upon completion, the environment undergoes a **Zero-State Purge**.
 
@@ -45,4 +45,4 @@ Unlike traditional static labs, **The Construct** utilizes a proprietary JSON-dr
 ---
 
 ### 🛡️ The Doctrine
-*"We don't just defend the perimeter; we delete it. By decoupling the user from the infrastructure, the point of attack becomes a moving target that vanishes upon observation."*
+*"We don't just defend the perimeter; we delete it, dissapear and respawn in < 1 second
